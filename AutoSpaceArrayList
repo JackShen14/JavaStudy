@@ -2,22 +2,28 @@
   創建一個Array 會自動依照i值填入空白。
   
   ***********************************************
-  
-	  public static void main(String[] args) {
-			ArrayList<String> spaceList = new ArrayList<String>();
-			System.out.println("Initial size of al: " + spaceList.size());
-						
-			for (int i=0 ; i<10 ; i++) {
-				if (i==0) {
-					spaceList.add("1");
-					//spaceList.add("\u0020");
-				}else {
-					spaceList.add(spaceList.get(i-1)+"1");
-					//spaceList.add("\u0020");  //自行替換("\0020" 空白)
-				}
-			}
-			
-			for(String a : spaceList){
-				System.out.println(a);
+import java.util.ArrayList;
+
+public class AutoSpaceArrayList {
+
+	public static void main(String[] args) {
+		ArrayList<String> spaceList = new ArrayList<String>();
+		System.out.println("Initial size of spaceList: " + spaceList.size());
+
+		for (int i = 0; i < 10; i++) {
+			if (i == 0) {
+				spaceList.add("1");
+				// spaceList.add("\u0020");
+			} else {
+				spaceList.add(spaceList.get(i - 1) + "1");
+				// spaceList.add("\u0020");
 			}
 		}
+		System.out.println(spaceList);
+
+		for (String a : spaceList) {
+			System.out.println(a);
+		}
+	}
+}
+
