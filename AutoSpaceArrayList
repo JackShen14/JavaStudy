@@ -1,0 +1,16 @@
+	2019/09/05
+  創建一個Array 會自動依照i值填入空白。
+  
+  ***********************************************
+  
+  
+  public static void main(String[] args) {
+		ArrayList<String> spaceList = new ArrayList<String>();
+		for (int i=0 ; i<10 ; i++) {
+			spaceList.add(spaceList.get(i)+"\u0020");
+		}
+		
+		for(String a : spaceList){
+			System.out.println(a);
+		}
+	}
