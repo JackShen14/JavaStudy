@@ -9,3 +9,12 @@ Some exercises about JAVA
 ![image](https://github.com/JackShen14/JavaStudy/blob/master/test_jpg/AutoSpaceArrayList.jpg)
 
 
+
+
+
+
+
+
+**********************************************   Reference   **********************************************
+1.JAVA 字符串格式化 - String.format();
+Reference : https://jax-work-archive.blogspot.com/2015/02/java-stringformat.html
