@@ -21,7 +21,7 @@ n的大小介於2到10之間(包含2和10)
 請回傳正三角形的字串
 ************************************************ JAVA Code *********************************************
 
-```java
+
 public class Solution {
 
 	public String triangle(int n) {
@@ -40,7 +40,7 @@ public class Solution {
 		return result;
     }
 }
-```
+
 
 
 
