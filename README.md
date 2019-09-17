@@ -8,6 +8,9 @@ Some exercises about JAVA
 2.創建一個Array 會自動依照i值填入空白。
 ![image](https://github.com/JackShen14/JavaStudy/blob/master/test_jpg/AutoSpaceArrayList.jpg)
 
+3.樵夫找最快回家路徑 練習題
+![image](https://github.com/JackShen14/JavaStudy/blob/master/test_jpg/goHomeFast.jpg)
+
 
 
 
