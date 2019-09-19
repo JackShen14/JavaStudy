@@ -22,3 +22,6 @@ Some exercises about JAVA
 
 1.JAVA 字符串格式化 - String.format();
 Reference : https://jax-work-archive.blogspot.com/2015/02/java-stringformat.html
+2.延伸閱讀 - Docker 
+摘要: 自動化佈署
+URL: https://docs.microsoft.com/zh-tw/dotnet/architecture/containerized-lifecycle/what-is-docker
