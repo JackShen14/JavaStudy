@@ -26,3 +26,6 @@ Reference : https://jax-work-archive.blogspot.com/2015/02/java-stringformat.html
 摘要: 自動化佈署
 URL1: https://docs.microsoft.com/zh-tw/dotnet/architecture/containerized-lifecycle/what-is-docker
 URL2: https://hub.docker.com/search/?q=&type=image
+3.資料
+http://www.bigdatabugs.com/pdf/
+4.
