@@ -20,12 +20,12 @@ Some exercises about JAVA
 
 **********************************************   Reference   **********************************************
 
-1.JAVA 字符串格式化 - String.format();
-Reference : https://jax-work-archive.blogspot.com/2015/02/java-stringformat.html
+1.JAVA 字符串格式化 - String.format();  
+Reference : https://jax-work-archive.blogspot.com/2015/02/java-stringformat.html  
 2.延伸閱讀 - Docker 
 摘要: 自動化佈署
-URL1: https://docs.microsoft.com/zh-tw/dotnet/architecture/containerized-lifecycle/what-is-docker
-URL2: https://hub.docker.com/search/?q=&type=image
-3.資料
-http://www.bigdatabugs.com/pdf/
-4.
+URL1: https://docs.microsoft.com/zh-tw/dotnet/architecture/containerized-lifecycle/what-is-docker  
+URL2: https://hub.docker.com/search/?q=&type=image  
+3.資料  
+http://www.bigdatabugs.com/pdf/  
+4.  
