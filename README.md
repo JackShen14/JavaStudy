@@ -11,6 +11,16 @@ Some exercises about JAVA
 3.樵夫找最快回家路徑 練習題
 ![image](https://github.com/JackShen14/JavaStudy/blob/master/test_jpg/goHomeFast.jpg)
 
+4.String to date ，再轉換成想要的string 格式
+```java
+		String tdStartDt = "20191105";  
+	  Date date1=new SimpleDateFormat("yyyyMMdd").parse(tdStartDt);
+	  String date2 = new SimpleDateFormat("dd/MM/yyyy").format(date1);
+	  System.out.println(tdStartDt+"\t"+date1 + "\t" + date2 ); 
+	  System.out.println(date1.getClass().getName());
+	  System.out.println(date2.getClass().getName());
+```
+
 
 
 
@@ -28,6 +38,6 @@ URL1: https://docs.microsoft.com/zh-tw/dotnet/architecture/containerized-lifecyc
 URL2: https://hub.docker.com/search/?q=&type=image  
 3.資料  
 http://www.bigdatabugs.com/pdf/  
-4.  
+4.
 
 
