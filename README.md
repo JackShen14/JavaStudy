@@ -43,4 +43,5 @@ http://8st.blogspot.com/2014/06/java.html
 5.[工作遭遇]J老闆 jar檔相衝參考資料
 http://wei-meilin.blogspot.com/2012/10/jeap-5-class-loading.html  
 	解決辦法參考 : https://www.mpinfo.com.tw/TechnologyColumnFiles/JavaAPsvr_T_201311.pdf  
-
+6.30先學習spring mvc 參考資料  
+https://ithelp.ithome.com.tw/articles/10192344
